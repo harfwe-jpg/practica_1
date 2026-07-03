@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "timestamp_generacion": "2026-06-24T14:49:43.857438",
+        "archivo_origen": "deteciones_datos.JSON"
+    },
+    "metrics": {
+        "total_detections": 6,
+        "unique_classes_count": 3,
+        "class_distribution": {
+            "car": 3,
+            "truck": 2,
+            "motorcycle": 1
+        },
+        "hourly_distribution": {
+            "14:00 hrs": 4,
+            "15:00 hrs": 2
+        },
+        "peak_traffic_hour": "14:00 hrs",
+        "confidence_metrics": {
+            "avg": 0.0,
+            "min": 0.0,
+            "max": 0.0
+        }
+    }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "class": "car",
+    "time": "14:05:22"
+  },
+  {
+    "class": "car",
+    "time": "14:12:05"
+  },
+  {
+    "class": "truck",
+    "time": "14:15:30"
+  },
+  {
+    "class": "motorcycle",
+    "time": "14:22:12"
+  },
+  {
+    "class": "car",
+    "time": "15:02:45"
+  },
+  {
+    "class": "truck",
+    "time": "15:10:18"
+  }
+]
